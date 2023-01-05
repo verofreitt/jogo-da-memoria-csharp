@@ -1,5 +1,5 @@
 <h1 align="center">
-# Jogo da Memória Desenvolvido em C#
+Jogo da Memória Desenvolvido em C#
 </h1>
 
 <p align="center">
