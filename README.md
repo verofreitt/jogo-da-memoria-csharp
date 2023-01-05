@@ -7,5 +7,5 @@ Jogo da Memória Desenvolvido em C#
 </p>
 
 <p align="center">
-Projeto feito na faculdade através do Visual Studio para a materia de orientação a objetos.
+Projeto feito na faculdade através do Visual Studio para a matéria de orientação a objetos.
 </p>
